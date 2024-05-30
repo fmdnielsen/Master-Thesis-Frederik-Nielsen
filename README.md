@@ -13,5 +13,9 @@ res = residential <br />
 ind = industrial <br />
 cam = institutional (campus) <br />
 
+dataset 4 = insitutional data<br />
+dataset 5 = industrial data<br />
+dataset 7 = residential data<br />
+
 LSTM = Stacked LSTM <br />
 LSTM_simple = Basic LSTM with only 1 LSTM layer 
